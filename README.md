@@ -14,4 +14,5 @@
 「こっちの方がすっきりと書ける」「無駄な処理多すぎ」等の苦情があればぜひ教えてください。
 
 ## 言語
-
+![](https://img.shields.io/badge/Program-C%2B%2B-yellow.svg)
+![](https://img.shields.io/badge/Program-C-red.svg)
